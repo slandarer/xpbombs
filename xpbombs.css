@@ -89,10 +89,10 @@ td.eight{
 
 }
 .mine {
-    background: #d9d9d9 url(images/mine.png) no-repeat center;
+    background: #d9d9d9 url(https://img-blog.csdnimg.cn/33b50d2aa7884694ba9e05b3b5414f83.png) no-repeat center;
     background-size: cover;
 }
 .flag {
-    background: #ccc url(images/flag.png) no-repeat center;
+    background: #ccc url(https://img-blog.csdnimg.cn/fcb93509a3d64feca0634061d0b32c2a.png) no-repeat center;
     background-size: cover;
 }
